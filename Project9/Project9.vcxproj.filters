@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="reference_parameters.cpp">
-      <Filter>Resource Files</Filter>
+    <ClCompile Include="user_def_functions.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
